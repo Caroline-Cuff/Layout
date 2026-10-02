@@ -34,7 +34,6 @@ public class Easy2 implements ActionListener {
             mainFrame = new JFrame("Java SWING Examples");
             mainFrame.setSize(WIDTH, HEIGHT);
             mainFrame.setLayout(new BorderLayout(3, 1));
-
             //menu at top
 //            cut = new JMenuItem("cut");
 //            copy = new JMenuItem("copy");
